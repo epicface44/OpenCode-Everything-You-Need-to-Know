@@ -467,16 +467,6 @@ OpenCode's TUI is text-based and doesn't display images inline. Image links appe
 - **GitHub**: [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
 - **Discord**: [Join Community](https://discord.gg/opencode)
 
-### Learning Resources
-- **Video Tutorials**: [YouTube Channel](https://youtube.com/@opencode)
-- **Blog**: [Latest Updates](https://opencode.ai/blog)
-- **Examples**: [GitHub Examples](https://github.com/anomalyco/opencode-examples)
-
-### Contributing
-- **Report Issues**: [GitHub Issues](https://github.com/anomalyco/opencode/issues)
-- **Submit PRs**: [Contributing Guide](https://github.com/anomalyco/opencode/blob/main/CONTRIBUTING.md)
-- **Skill Library**: [Share your skills](https://github.com/opencode-skills)
-
 ---
 
 ## 📈 What's Next?

